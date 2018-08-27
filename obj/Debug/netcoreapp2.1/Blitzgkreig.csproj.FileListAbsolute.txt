@@ -1,0 +1,11 @@
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/bin/Debug/netcoreapp2.1/Blitzgkreig.deps.json
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/bin/Debug/netcoreapp2.1/Blitzgkreig.runtimeconfig.json
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/bin/Debug/netcoreapp2.1/Blitzgkreig.runtimeconfig.dev.json
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/bin/Debug/netcoreapp2.1/Blitzgkreig.dll
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/bin/Debug/netcoreapp2.1/Blitzgkreig.pdb
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.csprojAssemblyReference.cache
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.csproj.CoreCompileInputs.cache
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.AssemblyInfoInputs.cache
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.AssemblyInfo.cs
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.dll
+/Users/brettshearin/workspace/csharp/exercises/Blitzgkreig/obj/Debug/netcoreapp2.1/Blitzgkreig.pdb
